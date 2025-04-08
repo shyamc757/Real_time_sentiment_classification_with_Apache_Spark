@@ -47,7 +47,7 @@ To get started with this project, clone the repository and follow the setup inst
    git clone https://github.com/shyamc757/real-time-sentiment-analysis.git
    ```
 
-### Set Up Environment
+2. Set Up Environment
 
 - Install necessary dependencies.  
 - Configure access to data sources and storage as required.
